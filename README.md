@@ -18,7 +18,7 @@
 
 ## Getting Started:
 
-- **To run the code to gather data**: this project uses live streaming data gathered from reddit
+- **To run the code**: this project uses big data available from google colab.
 
 
 ## Details:
